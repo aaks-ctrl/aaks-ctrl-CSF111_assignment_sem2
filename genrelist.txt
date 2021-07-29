@@ -1,0 +1,12 @@
+signal_processing
+data_science
+mathematics
+economics
+history
+science
+psychology
+fiction
+computer_science
+nonfiction
+philosophy
+comic
